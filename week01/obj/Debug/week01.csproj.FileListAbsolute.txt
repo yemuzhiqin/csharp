@@ -1,0 +1,1 @@
+Z:\csharp\week01\week01\bin\Debug\week01.exe.config
