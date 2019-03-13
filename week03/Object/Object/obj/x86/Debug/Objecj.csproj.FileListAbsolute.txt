@@ -1,0 +1,4 @@
+D:\csharp\week03\Objecj\Objecj\bin\Debug\Objecj.exe
+D:\csharp\week03\Objecj\Objecj\bin\Debug\Objecj.pdb
+D:\csharp\week03\Objecj\Objecj\obj\x86\Debug\Objecj.exe
+D:\csharp\week03\Objecj\Objecj\obj\x86\Debug\Objecj.pdb

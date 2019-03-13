@@ -1,0 +1,4 @@
+D:\csharp\week03\Score\Score\bin\Debug\Score.exe
+D:\csharp\week03\Score\Score\bin\Debug\Score.pdb
+D:\csharp\week03\Score\Score\obj\x86\Debug\Score.exe
+D:\csharp\week03\Score\Score\obj\x86\Debug\Score.pdb

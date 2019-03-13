@@ -1,0 +1,4 @@
+D:\csharp\week03\Enum\Enum\bin\Debug\Enum.exe
+D:\csharp\week03\Enum\Enum\bin\Debug\Enum.pdb
+D:\csharp\week03\Enum\Enum\obj\x86\Debug\Enum.exe
+D:\csharp\week03\Enum\Enum\obj\x86\Debug\Enum.pdb
