@@ -1,0 +1,13 @@
+                                Git的使用步骤
+1.创建远程仓库
+2.安装git软件，设置用户信息
+	git config --global user.name "用户名"（可不同）
+	git config --global user.email "邮箱地址"
+3.新建一个文件夹作为工作区
+4.进入工作区 cd d:\csharp
+5.克隆远程服务器上的仓库：git clone https://github.com/yemuzhiqin/csharp.git
+6.打开VS2013建立自己的解决方案和项目
+7.把变化加入git:git add .(.代表所有的意思）
+8.提交变化到本地版本库中：git commit -m "说明文字信息"
+9.把变化上传至远程服务器的版本库中：git push
+	注意：若又修改了工作区的内容，再次执行7，8，9。
