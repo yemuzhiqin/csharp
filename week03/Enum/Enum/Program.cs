@@ -23,6 +23,7 @@ namespace Enum
         }
         static void Main(string[] args)
         {
+            //枚举类型的值默认从0开始
             System.Console.WriteLine("Mrkj.csharp={0},索引值={1}",Mrkj.csharp,(int)Mrkj.csharp);
             System.Console.WriteLine("Mrkj.app={0},索引值={1}", Mrkj.app, (int)Mrkj.app);
             System.Console.WriteLine("Mrkj.c={0},索引值={1}", Mrkj.c, (int)Mrkj.c);

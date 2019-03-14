@@ -19,6 +19,8 @@ namespace Datatype
             System.Console.WriteLine("ulong类型原型为{0}，占用字节数{1}，取值范围：{2}~{3}", typeof(ulong), sizeof(ulong), ulong.MinValue, ulong.MaxValue);
             System.Console.WriteLine("float类型原型为{0}，占用字节数{1}，取值范围：{2}~{3}", typeof(float), sizeof(float), float.MinValue, float.MaxValue);
             System.Console.WriteLine("double类型原型为{0}，占用字节数{1}，取值范围：{2}~{3}", typeof(double), sizeof(double), double.MinValue, double.MaxValue);
+            System.Console.WriteLine("decimal类型原型为{0}，占用字节数{1}，取值范围：{2}~{3}", typeof(decimal), sizeof(decimal), decimal.MinValue, decimal.MaxValue);
+            System.Console.WriteLine("char类型原型为{0}，占用字节数{1}", typeof(char), sizeof(char));
             System.Console.ReadKey();
         }
     }

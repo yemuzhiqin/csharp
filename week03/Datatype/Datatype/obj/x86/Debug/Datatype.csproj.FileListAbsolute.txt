@@ -2,3 +2,4 @@ D:\csharp\week03\Datatype\Datatype\bin\Debug\Datatype.exe
 D:\csharp\week03\Datatype\Datatype\bin\Debug\Datatype.pdb
 D:\csharp\week03\Datatype\Datatype\obj\x86\Debug\Datatype.exe
 D:\csharp\week03\Datatype\Datatype\obj\x86\Debug\Datatype.pdb
+D:\csharp\week03\Datatype\Datatype\obj\x86\Debug\Datatype.csprojResolveAssemblyReference.cache
