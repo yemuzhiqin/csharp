@@ -10,6 +10,7 @@ namespace Demo_StringCompare
     {
         static void Main(string[] args)
         {
+            //字符串的比较
             string str1 = "abc";
             string str2 = "Abc";
             Console.WriteLine("str1==str2的结果为：{0}",str1==str2);
