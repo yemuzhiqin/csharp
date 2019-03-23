@@ -1,0 +1,4 @@
+D:\csharp\week04\Demo_DateTimeFormat\Demo_DateTimeFormat\bin\Debug\Demo_DateTimeFormat.exe
+D:\csharp\week04\Demo_DateTimeFormat\Demo_DateTimeFormat\bin\Debug\Demo_DateTimeFormat.pdb
+D:\csharp\week04\Demo_DateTimeFormat\Demo_DateTimeFormat\obj\x86\Debug\Demo_DateTimeFormat.exe
+D:\csharp\week04\Demo_DateTimeFormat\Demo_DateTimeFormat\obj\x86\Debug\Demo_DateTimeFormat.pdb

@@ -1,0 +1,4 @@
+D:\csharp\week04\Demo_StringBuilder\Demo_StringBuilder\bin\Debug\Demo_StringBuilder.exe
+D:\csharp\week04\Demo_StringBuilder\Demo_StringBuilder\bin\Debug\Demo_StringBuilder.pdb
+D:\csharp\week04\Demo_StringBuilder\Demo_StringBuilder\obj\x86\Debug\Demo_StringBuilder.exe
+D:\csharp\week04\Demo_StringBuilder\Demo_StringBuilder\obj\x86\Debug\Demo_StringBuilder.pdb

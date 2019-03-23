@@ -21,6 +21,18 @@ namespace Demo_StringCompare
             Console.WriteLine("str1.ToLower()==str2.ToLower()的结果为：{0}", str1.ToLower() == str2.ToLower());//先转换成小写再进行比较
             Console.WriteLine("str1.ToUpper() == str2.ToUpper()的结果为：{0}", str1.ToUpper() == str2.ToUpper());//先转换成大写再进行比较
 
+<<<<<<< HEAD
+            ///判断一个字符串是空值还是空字符串
+            ///str = null;//空值
+            ///str = "";//空字符串
+            ///(1)if(str==null || str=="")
+            ///(2)if(string.IsNullOrEmpty(str))
+            ///(3)if(str.Equals(string.Empty))
+            
+            
+            
+=======
+>>>>>>> bc3c797b92d4aff8789b36a4fedb928889844141
 
 
             Console.ReadKey();

@@ -1,0 +1,4 @@
+D:\csharp\week04\Demo_StringMethod\Demo_StringMethod\bin\Debug\Demo_StringMethod.exe
+D:\csharp\week04\Demo_StringMethod\Demo_StringMethod\bin\Debug\Demo_StringMethod.pdb
+D:\csharp\week04\Demo_StringMethod\Demo_StringMethod\obj\x86\Debug\Demo_StringMethod.exe
+D:\csharp\week04\Demo_StringMethod\Demo_StringMethod\obj\x86\Debug\Demo_StringMethod.pdb
