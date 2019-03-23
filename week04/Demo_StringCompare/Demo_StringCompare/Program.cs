@@ -10,7 +10,7 @@ namespace Demo_StringCompare
     {
         static void Main(string[] args)
         {
-            //字符串的比较
+            //1.字符串的比较
             string str1 = "abc";
             string str2 = "Abc";
             Console.WriteLine("str1==str2的结果为：{0}",str1==str2);
@@ -21,20 +21,17 @@ namespace Demo_StringCompare
             Console.WriteLine("str1.ToLower()==str2.ToLower()的结果为：{0}", str1.ToLower() == str2.ToLower());//先转换成小写再进行比较
             Console.WriteLine("str1.ToUpper() == str2.ToUpper()的结果为：{0}", str1.ToUpper() == str2.ToUpper());//先转换成大写再进行比较
 
-<<<<<<< HEAD
-            ///判断一个字符串是空值还是空字符串
+            ///2.判断一个字符串是空值还是空字符串
             ///str = null;//空值
             ///str = "";//空字符串
             ///(1)if(str==null || str=="")
             ///(2)if(string.IsNullOrEmpty(str))
             ///(3)if(str.Equals(string.Empty))
             
-            
-            
-=======
->>>>>>> bc3c797b92d4aff8789b36a4fedb928889844141
-
-
+            ///3.转义字符：以反斜杠(\)开头
+            ///\n:回车换行  \t:横向跳到下一制表位置  \b:退格  \r:回车  \f:换页  \\:反斜杠符  \":双引号  \':单引号符
+            string str = "abc\tdef\trjk";
+            Console.WriteLine("str={0}", str);
             Console.ReadKey();
         }
     }

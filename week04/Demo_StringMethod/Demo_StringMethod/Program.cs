@@ -2,10 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-<<<<<<< HEAD
-=======
 using System.Threading.Tasks;
->>>>>>> bc3c797b92d4aff8789b36a4fedb928889844141
 
 namespace Demo_StringMethod
 {
@@ -13,7 +10,6 @@ namespace Demo_StringMethod
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             string str = "人生若只如初见,";
 
             //1.字符串的插入（Insert()）
@@ -58,9 +54,7 @@ namespace Demo_StringMethod
             }
 
             Console.ReadKey();
-=======
             //1.字符串的插入（Insert()）
->>>>>>> bc3c797b92d4aff8789b36a4fedb928889844141
         }
     }
 }
