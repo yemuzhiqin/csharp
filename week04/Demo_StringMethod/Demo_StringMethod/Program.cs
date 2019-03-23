@@ -54,7 +54,7 @@ namespace Demo_StringMethod
             }
 
             Console.ReadKey();
-            //1.字符串的插入（Insert()）
+
         }
     }
 }
