@@ -1,0 +1,6 @@
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\bin\Debug\Demo_CharAndString.exe.config
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\bin\Debug\Demo_CharAndString.exe
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\bin\Debug\Demo_CharAndString.pdb
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\obj\Debug\Demo_CharAndString.csprojResolveAssemblyReference.cache
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\obj\Debug\Demo_CharAndString.exe
+Z:\csharp\week04\Demo_CharAndString\Demo_CharAndString\obj\Debug\Demo_CharAndString.pdb

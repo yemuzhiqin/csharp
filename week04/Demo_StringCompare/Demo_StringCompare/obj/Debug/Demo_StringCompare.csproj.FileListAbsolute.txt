@@ -1,0 +1,6 @@
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\bin\Debug\Demo_StringCompare.exe.config
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\obj\Debug\Demo_StringCompare.csprojResolveAssemblyReference.cache
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\bin\Debug\Demo_StringCompare.exe
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\bin\Debug\Demo_StringCompare.pdb
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\obj\Debug\Demo_StringCompare.exe
+Z:\csharp\week04\Demo_StringCompare\Demo_StringCompare\obj\Debug\Demo_StringCompare.pdb
