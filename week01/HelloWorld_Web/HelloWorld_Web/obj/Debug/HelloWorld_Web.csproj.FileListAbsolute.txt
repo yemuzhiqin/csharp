@@ -1,0 +1,4 @@
+D:\csharp\week01\HelloWorld_Web\HelloWorld_Web\bin\HelloWorld_Web.dll
+D:\csharp\week01\HelloWorld_Web\HelloWorld_Web\bin\HelloWorld_Web.pdb
+D:\csharp\week01\HelloWorld_Web\HelloWorld_Web\obj\Debug\HelloWorld_Web.dll
+D:\csharp\week01\HelloWorld_Web\HelloWorld_Web\obj\Debug\HelloWorld_Web.pdb

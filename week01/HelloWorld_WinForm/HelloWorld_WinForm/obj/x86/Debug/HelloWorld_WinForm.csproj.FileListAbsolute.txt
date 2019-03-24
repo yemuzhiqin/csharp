@@ -1,0 +1,8 @@
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\bin\Debug\HelloWorld_WinForm.exe
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\bin\Debug\HelloWorld_WinForm.pdb
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.Form1.resources
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.Properties.Resources.resources
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.csproj.GenerateResource.Cache
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.exe
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.pdb
+D:\csharp\week01\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.csprojResolveAssemblyReference.cache
