@@ -1,0 +1,4 @@
+D:\csharp\week05\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.exe
+D:\csharp\week05\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.pdb
+D:\csharp\week05\Demo_Sort\Demo_Sort\obj\x86\Debug\Demo_Sort.exe
+D:\csharp\week05\Demo_Sort\Demo_Sort\obj\x86\Debug\Demo_Sort.pdb
