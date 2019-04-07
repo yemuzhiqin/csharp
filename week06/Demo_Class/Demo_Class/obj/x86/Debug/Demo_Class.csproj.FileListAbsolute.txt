@@ -1,0 +1,4 @@
+D:\csharp\week06\Demo_Class\Demo_Class\bin\Debug\Demo_Class.exe
+D:\csharp\week06\Demo_Class\Demo_Class\bin\Debug\Demo_Class.pdb
+D:\csharp\week06\Demo_Class\Demo_Class\obj\x86\Debug\Demo_Class.exe
+D:\csharp\week06\Demo_Class\Demo_Class\obj\x86\Debug\Demo_Class.pdb
