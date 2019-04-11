@@ -1,5 +1,0 @@
-D:\csharp\week06\Demo_Struct\Demo_Struct\bin\Debug\Demo_Struct.exe
-D:\csharp\week06\Demo_Struct\Demo_Struct\bin\Debug\Demo_Struct.pdb
-D:\csharp\week06\Demo_Struct\Demo_Struct\obj\x86\Debug\Demo_Struct.exe
-D:\csharp\week06\Demo_Struct\Demo_Struct\obj\x86\Debug\Demo_Struct.pdb
-D:\csharp\week06\Demo_Struct\Demo_Struct\obj\x86\Debug\Demo_Struct.csprojResolveAssemblyReference.cache
