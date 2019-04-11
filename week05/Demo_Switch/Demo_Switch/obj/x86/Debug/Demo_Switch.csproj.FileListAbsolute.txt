@@ -1,4 +1,0 @@
-D:\csharp\week05\Demo_Switch\Demo_Switch\bin\Debug\Demo_Switch.exe
-D:\csharp\week05\Demo_Switch\Demo_Switch\bin\Debug\Demo_Switch.pdb
-D:\csharp\week05\Demo_Switch\Demo_Switch\obj\x86\Debug\Demo_Switch.exe
-D:\csharp\week05\Demo_Switch\Demo_Switch\obj\x86\Debug\Demo_Switch.pdb

@@ -1,5 +1,0 @@
-D:\csharp\week05\Demo_ArrayList\Demo_ArrayList\bin\Debug\Demo_ArrayList.exe
-D:\csharp\week05\Demo_ArrayList\Demo_ArrayList\bin\Debug\Demo_ArrayList.pdb
-D:\csharp\week05\Demo_ArrayList\Demo_ArrayList\obj\x86\Debug\Demo_ArrayList.exe
-D:\csharp\week05\Demo_ArrayList\Demo_ArrayList\obj\x86\Debug\Demo_ArrayList.pdb
-D:\csharp\week05\Demo_ArrayList\Demo_ArrayList\obj\x86\Debug\Demo_ArrayList.csprojResolveAssemblyReference.cache

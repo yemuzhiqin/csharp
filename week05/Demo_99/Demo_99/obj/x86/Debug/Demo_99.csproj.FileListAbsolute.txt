@@ -1,4 +1,0 @@
-D:\csharp\week05\Demo_99\Demo_99\bin\Debug\Demo_99.exe
-D:\csharp\week05\Demo_99\Demo_99\bin\Debug\Demo_99.pdb
-D:\csharp\week05\Demo_99\Demo_99\obj\x86\Debug\Demo_99.exe
-D:\csharp\week05\Demo_99\Demo_99\obj\x86\Debug\Demo_99.pdb

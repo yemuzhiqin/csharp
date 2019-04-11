@@ -1,4 +1,0 @@
-D:\csharp\week05\Demo_JiOuSum\Demo_JiOuSum\bin\Debug\Demo_JiOuSum.exe
-D:\csharp\week05\Demo_JiOuSum\Demo_JiOuSum\bin\Debug\Demo_JiOuSum.pdb
-D:\csharp\week05\Demo_JiOuSum\Demo_JiOuSum\obj\x86\Debug\Demo_JiOuSum.exe
-D:\csharp\week05\Demo_JiOuSum\Demo_JiOuSum\obj\x86\Debug\Demo_JiOuSum.pdb
