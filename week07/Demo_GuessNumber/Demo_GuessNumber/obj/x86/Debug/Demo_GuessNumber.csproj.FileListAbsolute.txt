@@ -1,0 +1,7 @@
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\bin\Debug\Demo_GuessNumber.exe
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\bin\Debug\Demo_GuessNumber.pdb
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\obj\x86\Debug\Demo_GuessNumber.Form1.resources
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\obj\x86\Debug\Demo_GuessNumber.Properties.Resources.resources
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\obj\x86\Debug\Demo_GuessNumber.csproj.GenerateResource.Cache
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\obj\x86\Debug\Demo_GuessNumber.exe
+D:\csharp\week07\Demo_GuessNumber\Demo_GuessNumber\obj\x86\Debug\Demo_GuessNumber.pdb

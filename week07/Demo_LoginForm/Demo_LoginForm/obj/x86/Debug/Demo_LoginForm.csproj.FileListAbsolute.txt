@@ -1,0 +1,7 @@
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\obj\x86\Debug\Demo_LoginForm.Form1.resources
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\obj\x86\Debug\Demo_LoginForm.Properties.Resources.resources
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\obj\x86\Debug\Demo_LoginForm.csproj.GenerateResource.Cache
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\bin\Debug\Demo_LoginForm.exe
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\bin\Debug\Demo_LoginForm.pdb
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\obj\x86\Debug\Demo_LoginForm.exe
+D:\csharp\week07\Demo_LoginForm\Demo_LoginForm\obj\x86\Debug\Demo_LoginForm.pdb

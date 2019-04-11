@@ -1,0 +1,7 @@
+D:\csharp\week07\Demo_Math\Demo_Math\bin\Debug\Demo_Math.exe
+D:\csharp\week07\Demo_Math\Demo_Math\bin\Debug\Demo_Math.pdb
+D:\csharp\week07\Demo_Math\Demo_Math\obj\x86\Debug\Demo_Math.Form1.resources
+D:\csharp\week07\Demo_Math\Demo_Math\obj\x86\Debug\Demo_Math.Properties.Resources.resources
+D:\csharp\week07\Demo_Math\Demo_Math\obj\x86\Debug\Demo_Math.csproj.GenerateResource.Cache
+D:\csharp\week07\Demo_Math\Demo_Math\obj\x86\Debug\Demo_Math.exe
+D:\csharp\week07\Demo_Math\Demo_Math\obj\x86\Debug\Demo_Math.pdb
