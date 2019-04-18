@@ -1,0 +1,7 @@
+D:\csharp\week08\Demo_Color\Demo_Color\bin\Debug\Demo_Color.exe
+D:\csharp\week08\Demo_Color\Demo_Color\bin\Debug\Demo_Color.pdb
+D:\csharp\week08\Demo_Color\Demo_Color\obj\x86\Debug\Demo_Color.Form1.resources
+D:\csharp\week08\Demo_Color\Demo_Color\obj\x86\Debug\Demo_Color.Properties.Resources.resources
+D:\csharp\week08\Demo_Color\Demo_Color\obj\x86\Debug\Demo_Color.csproj.GenerateResource.Cache
+D:\csharp\week08\Demo_Color\Demo_Color\obj\x86\Debug\Demo_Color.exe
+D:\csharp\week08\Demo_Color\Demo_Color\obj\x86\Debug\Demo_Color.pdb

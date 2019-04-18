@@ -1,0 +1,7 @@
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\bin\Debug\Demo_HelloWorld.exe
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\bin\Debug\Demo_HelloWorld.pdb
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\obj\x86\Debug\Demo_HelloWorld.Form1.resources
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\obj\x86\Debug\Demo_HelloWorld.Properties.Resources.resources
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\obj\x86\Debug\Demo_HelloWorld.csproj.GenerateResource.Cache
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\obj\x86\Debug\Demo_HelloWorld.exe
+D:\csharp\week08\Demo_HelloWorld\Demo_HelloWorld\obj\x86\Debug\Demo_HelloWorld.pdb
