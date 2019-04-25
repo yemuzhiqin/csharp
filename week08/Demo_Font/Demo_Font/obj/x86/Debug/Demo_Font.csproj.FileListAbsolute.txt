@@ -5,3 +5,4 @@ D:\csharp\week08\Demo_Font\Demo_Font\obj\x86\Debug\Demo_Font.Properties.Resource
 D:\csharp\week08\Demo_Font\Demo_Font\obj\x86\Debug\Demo_Font.csproj.GenerateResource.Cache
 D:\csharp\week08\Demo_Font\Demo_Font\obj\x86\Debug\Demo_Font.exe
 D:\csharp\week08\Demo_Font\Demo_Font\obj\x86\Debug\Demo_Font.pdb
+D:\csharp\week08\Demo_Font\Demo_Font\obj\x86\Debug\Demo_Font.csprojResolveAssemblyReference.cache
