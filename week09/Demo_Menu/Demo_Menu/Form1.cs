@@ -14,6 +14,10 @@ namespace Demo_Menu
     public partial class Form1 : Form
     {
 
+        private string _FileName = "";//文件名
+        private Encoding _FileEncode = Encoding.UTF8;//系统默认编码为ANSI:Encoding.Default
+        private bool _IsSaved = true;//是否已保存
+
         //显示光标所在的行和列
         private void SetRowColInfo()
         {
@@ -26,11 +30,6 @@ namespace Demo_Menu
 
         }
 
-
-        private string _FileName = "";//文件名
-        private bool _IsSaved = true;//是否已保存
-
-        
 
         //保存文件
         private void SaveFile()
@@ -47,14 +46,13 @@ namespace Demo_Menu
                 }
             }
 
-            this.Text = _FileName;
-
 
             System.IO.StreamWriter sw = new System.IO.StreamWriter(_FileName);
             sw.WriteLine(textBox1.Text);
             sw.Flush();
             sw.Close();
             _IsSaved = true;
+            this.Text = _FileName;
         }
 
         public Form1()
@@ -120,8 +118,10 @@ namespace Demo_Menu
                 {
 
                     _FileName = "";
+                    _FileEncode = Encoding.UTF8;
                     _IsSaved = true;
                     textBox1.Clear();
+                    statusBar_Encode.Text = _FileEncode.EncodingName;
                     this.Text = "新建文本文档";
                     textBox1.Focus();
                 }
@@ -129,8 +129,10 @@ namespace Demo_Menu
             else
             {
                 _FileName = "";
+                _FileEncode = Encoding.UTF8;
                 _IsSaved = true;
                 textBox1.Clear();
+                statusBar_Encode.Text = _FileEncode.EncodingName;
                 this.Text = "新建文本文档";
                 textBox1.Focus();
             }
@@ -139,20 +141,20 @@ namespace Demo_Menu
         //打开
         private void mi_OpenFile_Click(object sender, EventArgs e)
         {
-            string fileName;
 
                 if (openFileDialog1.ShowDialog() == DialogResult.OK)
                 {
-                    fileName = openFileDialog1.FileName;
+                    _FileName = openFileDialog1.FileName;
+                    this.Text = _FileName;
+                    _FileEncode = TextEncodeType.GetType(_FileName);//自动获取文件的编码类型
 
                     System.IO.StreamReader sr;//读取数据流
-                    sr=new System.IO.StreamReader(fileName, Encoding.UTF8);
+                    sr=new System.IO.StreamReader(_FileName, Encoding.UTF8);
                     textBox1.Text = sr.ReadToEnd();
                     sr.Close();
-                    textBox1.Focus();
-                    _FileName = fileName;
+                    statusBar_Encode.Text = _FileEncode.EncodingName;
                     _IsSaved = true;
-                    this.Text = _FileName;
+                    
                 }
                 
         }
@@ -160,18 +162,35 @@ namespace Demo_Menu
         //保存
         private void mi_SaveFile_Click(object sender, EventArgs e)
         {
-            SaveFile();
+            if (_FileName == "")
+            {
+                mi_SaveAS_Click(sender, e);
+            }
+            else
+            {
+                SaveFile();
+            }
+            
         }
 
         //另存为
         private void mi_SaveAS_Click(object sender, EventArgs e)
         {
+            if (_FileName == "")
+            {
+                _FileName = this.Text;
+            }
+
+            saveFileDialog1.FileName = _FileName;
+
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 _FileName = saveFileDialog1.FileName;
                 SaveFile();
             }
         }
+
+
 
         //自动换行
         private void mi_AutoLine_Click(object sender, EventArgs e)
@@ -230,8 +249,8 @@ namespace Demo_Menu
         //关于记事本
         private void mi_About_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("琴琴记事本——一个用C#编写的记事小工具！Powered by 夜幕之琴\n\t\t2019-04--25宇宙", "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
-           //(new AboutBox()).ShowDialog();
+            //MessageBox.Show("琴琴记事本——一个用C#编写的记事小工具！Powered by 夜幕之琴\n\t\t2019-04--25宇宙", "系统提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            (new AboutForm()).ShowDialog();
             
         }
 
@@ -273,6 +292,8 @@ namespace Demo_Menu
             mi_Edit_Copy.Enabled = textBox1.SelectionLength > 0;
             mi_Edit_Cut.Enabled = mi_Edit_Copy.Enabled;
 
+            
+
             mi_Edit_Paste.Enabled = Clipboard.ContainsText();
             mi_Edit_Paste.Enabled = mi_Edit_Paste.Enabled;
         }
@@ -286,6 +307,11 @@ namespace Demo_Menu
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             _IsSaved = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            statusBar_Encode.Text = _FileEncode.EncodingName;
         }
     }
 }

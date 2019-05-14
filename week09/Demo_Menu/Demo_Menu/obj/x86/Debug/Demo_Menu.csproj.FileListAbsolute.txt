@@ -5,3 +5,5 @@ D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.Properties.Resource
 D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.csproj.GenerateResource.Cache
 D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.exe
 D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.pdb
+D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.csprojResolveAssemblyReference.cache
+D:\csharp\week09\Demo_Menu\Demo_Menu\obj\x86\Debug\Demo_Menu.AboutForm.resources
