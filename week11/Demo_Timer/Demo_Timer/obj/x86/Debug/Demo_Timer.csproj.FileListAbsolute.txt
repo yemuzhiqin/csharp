@@ -1,0 +1,8 @@
+D:\csharp\week11\Demo_Timer\Demo_Timer\bin\Debug\Demo_Timer.exe
+D:\csharp\week11\Demo_Timer\Demo_Timer\bin\Debug\Demo_Timer.pdb
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.csprojResolveAssemblyReference.cache
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.Form1.resources
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.Properties.Resources.resources
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.csproj.GenerateResource.Cache
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.exe
+D:\csharp\week11\Demo_Timer\Demo_Timer\obj\x86\Debug\Demo_Timer.pdb

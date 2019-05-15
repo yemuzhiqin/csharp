@@ -1,0 +1,8 @@
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\bin\Debug\Demo_TabControl.exe
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\bin\Debug\Demo_TabControl.pdb
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.csprojResolveAssemblyReference.cache
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.Form1.resources
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.Properties.Resources.resources
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.csproj.GenerateResource.Cache
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.exe
+D:\csharp\week11\Demo_TabControl\Demo_TabControl\obj\x86\Debug\Demo_TabControl.pdb
