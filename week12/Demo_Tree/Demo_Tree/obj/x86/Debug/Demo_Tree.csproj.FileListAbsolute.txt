@@ -1,0 +1,7 @@
+D:\csharp\week12\Demo_Tree\Demo_Tree\bin\Debug\Demo_Tree.exe
+D:\csharp\week12\Demo_Tree\Demo_Tree\bin\Debug\Demo_Tree.pdb
+D:\csharp\week12\Demo_Tree\Demo_Tree\obj\x86\Debug\Demo_Tree.Form1.resources
+D:\csharp\week12\Demo_Tree\Demo_Tree\obj\x86\Debug\Demo_Tree.Properties.Resources.resources
+D:\csharp\week12\Demo_Tree\Demo_Tree\obj\x86\Debug\Demo_Tree.csproj.GenerateResource.Cache
+D:\csharp\week12\Demo_Tree\Demo_Tree\obj\x86\Debug\Demo_Tree.exe
+D:\csharp\week12\Demo_Tree\Demo_Tree\obj\x86\Debug\Demo_Tree.pdb
