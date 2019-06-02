@@ -1,0 +1,1 @@
+select count(*) from Table_Czy where UserId='admin' and UserPwd='admin123' and IsStoped=0

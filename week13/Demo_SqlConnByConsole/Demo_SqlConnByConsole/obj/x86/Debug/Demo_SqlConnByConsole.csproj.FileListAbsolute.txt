@@ -1,0 +1,4 @@
+D:\csharp\week13\Demo_SqlConnByConsole\Demo_SqlConnByConsole\bin\Debug\Demo_SqlConnByConsole.exe
+D:\csharp\week13\Demo_SqlConnByConsole\Demo_SqlConnByConsole\bin\Debug\Demo_SqlConnByConsole.pdb
+D:\csharp\week13\Demo_SqlConnByConsole\Demo_SqlConnByConsole\obj\x86\Debug\Demo_SqlConnByConsole.exe
+D:\csharp\week13\Demo_SqlConnByConsole\Demo_SqlConnByConsole\obj\x86\Debug\Demo_SqlConnByConsole.pdb

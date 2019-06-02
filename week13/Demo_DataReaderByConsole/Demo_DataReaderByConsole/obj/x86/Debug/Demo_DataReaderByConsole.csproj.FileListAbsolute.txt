@@ -1,0 +1,4 @@
+D:\csharp\week13\Demo_DataReaderByConsole\Demo_DataReaderByConsole\bin\Debug\Demo_DataReaderByConsole.exe
+D:\csharp\week13\Demo_DataReaderByConsole\Demo_DataReaderByConsole\bin\Debug\Demo_DataReaderByConsole.pdb
+D:\csharp\week13\Demo_DataReaderByConsole\Demo_DataReaderByConsole\obj\x86\Debug\Demo_DataReaderByConsole.exe
+D:\csharp\week13\Demo_DataReaderByConsole\Demo_DataReaderByConsole\obj\x86\Debug\Demo_DataReaderByConsole.pdb

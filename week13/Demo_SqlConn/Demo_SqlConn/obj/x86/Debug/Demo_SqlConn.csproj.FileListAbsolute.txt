@@ -1,0 +1,7 @@
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\bin\Debug\Demo_SqlConn.exe
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\bin\Debug\Demo_SqlConn.pdb
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\obj\x86\Debug\Demo_SqlConn.Properties.Resources.resources
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\obj\x86\Debug\Demo_SqlConn.SqlConnForm.resources
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\obj\x86\Debug\Demo_SqlConn.csproj.GenerateResource.Cache
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\obj\x86\Debug\Demo_SqlConn.exe
+D:\csharp\week13\Demo_SqlConn\Demo_SqlConn\obj\x86\Debug\Demo_SqlConn.pdb
